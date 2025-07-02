@@ -1,16 +1,12 @@
-# PL-7001 Create and manage canvas apps with Power Apps
+# canvas apps with Power Apps
 
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
+- Have a look at our [GitHub User Guide for MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
 
 ## What are we doing?
 
-- To support this course, we will need to make frequent updates to the course content to keep it current with the Power Platform services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Power Platform.
-
-- We hope that this brings a sense of collaboration to the labs like we've never had before - when Power Platform changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
-
-## How should I use these files relative to the released Microsoft Learn Instructor Led Training files?
-
-- The Trainer prep guide and PowerPoint slide decks are still going to be your primary source for teaching the course content.
+- Designed and implemented a Canvas App UI for retail staff at POS locations.
+- Integrated the app with Dynamics CRM to retrieve and update customer and
+transaction data.
 
 - These files on GitHub are designed to be used in conjunction with the course and Learn modules, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab, demo, and exercise files.
 
