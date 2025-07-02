@@ -4,7 +4,9 @@
 
 ## What are we doing?
 
-- The Trainer prep guide and PowerPoint slide decks are still going to be your primary source for teaching the course content.
+- Designed and implemented a Canvas App UI for retail staff at POS locations.
+- Integrated the app with Dynamics CRM to retrieve and update customer and
+transaction data.
 
 - These files on GitHub are designed to be used in conjunction with the course and Learn modules, but are in GitHub as a central repository so MCTs and course authors can have a shared source for the latest lab, demo, and exercise files.
 
